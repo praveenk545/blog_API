@@ -1,0 +1,18 @@
+    //   {
+    //      ignoreExpiration: false,
+    //   secretOrKey: 'secretKey',
+
+    //   jwtFromRequest: ExtractJwt.fromExtractors([
+    //     // Take jwt from http header
+    //     ExtractJwt.fromAuthHeaderAsBearerToken(),
+    //     // Take jwt from cookie
+    //     cookieExtractor,
+    //   ]),
+      
+    // };
+
+//     mistakes :
+
+//    1. id : did not get to poss newpost table category_id and user_id
+
+//    2. file : file get method didnot workd we got error 404 enent
